@@ -1,0 +1,10 @@
+About Daytrotter Explorer
+This web application is build by Henning Horn.
+It fetches random Daytrotter Sessions and gives you the opportunity to discover new artists, in a slightly easier faster way, than on Daytrotter's website.
+
+If you want to download a track, you simply right-click on the track and select "Save destination/link...".
+You can also share the current playing track, by copying the link in the address bar of your browser.
+
+Daytrotter Explorer has no affiliation with Daytrotter.
+
+Made possible with jQuery and Audio Player.
