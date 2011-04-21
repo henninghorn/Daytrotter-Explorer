@@ -13,9 +13,9 @@ if($_SERVER['QUERY_STRING'] == 'reset') {
 <head>
 	<meta charset="utf-8"/>
 	<title>Daytrotter Explorer</title>
-	<link rel="stylesheet" href="inc/stylesheet.css" type="text/css" media="screen" charset="utf-8"/>
+	<link rel="stylesheet" href="inc/stylesheet.css" type="text/css" media="screen"/>
 	<script type="text/javascript" src="http://www.google.com/jsapi"></script>	
-	<script type="text/javascript" charset="utf-8">
+	<script type="text/javascript">
 		google.load("jquery", "1.4.2");
 	</script>
 	<script src="inc/audio-player/audio-player.js" type="text/javascript"></script>
