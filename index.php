@@ -11,7 +11,7 @@ if($_SERVER['QUERY_STRING'] == 'reset') {
 ?>
 <!DOCTYPE html>
 <head>
-	<meta chartset="utf-8"/>
+	<meta charset="utf-8"/>
 	<title>Daytrotter Explorer</title>
 	<link rel="stylesheet" href="inc/stylesheet.css" type="text/css" media="screen" charset="utf-8"/>
 	<script type="text/javascript" src="http://www.google.com/jsapi"></script>	
